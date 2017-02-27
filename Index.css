@@ -80,7 +80,7 @@ button:hover[type='Sign-Up'] {
     transition: background 0.1s;
 }
 
-.signup-form p {
+.SignUp p {
     font-size: 14px;
     text-align: center;
     margin: 0;
@@ -88,13 +88,13 @@ button:hover[type='Sign-Up'] {
     color: #999;
 }
 
-.signup-form a {
+.SignUp a {
     text-decoration: none;
     color: #999;
     border-bottom: 1px solid #bbb;
 }
 
-.signup-form a:hover {
+.SignUp a:hover {
     border-color: #999;
     color: #777;
 }
